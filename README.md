@@ -281,4 +281,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Michael Ndula** <[Michaelndula](https://github.com/Michaelndula)>
+* **Abubakar Abdul** <[Abubakar Abdul](https://github.com/biggdreamz)>
+* **Esraa Khaled** <[Esraa Khaled](https://github.com/EsraaKhaled94)>
